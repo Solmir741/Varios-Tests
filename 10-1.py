@@ -1,5 +1,5 @@
 
-# Альтернативное решение
+
 
 def only_z(p, pc):
     while pc < len(p):
